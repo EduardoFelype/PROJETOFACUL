@@ -20,7 +20,7 @@ Este projeto é uma aplicação web para gerenciamento de livros em uma bibliote
 ## Requisitos
 
 - **Java 8** ou superior.
-- **Apache Tomcat 9** ou superior.
+- **Apache Tomcat 9**.
 - **MySQL 5.x** ou superior.
 
 ## Estrutura do Banco de Dados
